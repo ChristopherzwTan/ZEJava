@@ -1,0 +1,35 @@
+NAME: variable1
+ASSIGN
+NUMBER: 734.0
+SEMI
+EOL
+NAME: variable2
+ASSIGN
+LP
+NAME: variable1
+INC
+RP
+MUL
+NAME: sqrt
+LP
+NUMBER: 64.0
+RP
+SEMI
+EOL
+NAME: A
+ASSIGN_MUL
+LP
+NAME: variable1
+ADD
+NAME: variable2
+RP
+MOD
+NUMBER: 2.0
+SEMI
+EOL
+NAME: variable3
+ASSIGN
+NAME: A
+MUL
+NUMBER: 5.0
+SEMI

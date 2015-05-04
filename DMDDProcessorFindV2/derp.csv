@@ -1,0 +1,6 @@
+BAKER_HUGHES_GOM_OILGAS, BakerHughesGOMOilGasProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=6635
+BAKER_HUGHES_NA_ROT_RIGS, BakerHughesNorthAmericaRotaryRigCountProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=7384
+BAKER_HUGHES_RIGS_BY_STATE, BakerHughesRigsRunningByStateProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=4309
+BAKER_HUGHES_US_GAS, BakerHughesUSGasProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=2976
+BARCHART_CBOT_FUTURES, Barchart_Futures_EODProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=5895
+BARCHART_CME_FUTURES, Barchart_Futures_EODProcessor, http://zema-util-01:8080/DMDataDictionary/editTable.do?type=Table&id=5896
